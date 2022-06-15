@@ -37,8 +37,8 @@ p {
 }
 
 .dark-background {
-  background-color: #565656;
-  color: #e6e6e6;
+  background-color: #750f11;
+  color: #e3d2a3;
 }
 
 .light-background {
@@ -48,6 +48,6 @@ p {
 
 .wrapper {
   height: 75px;
-  width: auto;
+  width: device-width;
   padding: 25px 15px 25px 15px;
 }
