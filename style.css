@@ -1,5 +1,5 @@
 body {
-  background-color: #e3caaa;
+  background-color: #a0ecd0;
   margin: 5px 10px 5px 10px;
   padding: 10px 25px 10px 25px;
 }
@@ -15,27 +15,27 @@ img {
 }
 
 h1 {
-  color: #4be4c3;
+  color: #9395d3;
   font-family: "Times New Roman", Times, serif;
-  font-size: 45px;
+  font-size: 65px;
   text-align: center;
 }
   
 h2 {
-  color: #2c9982;
+  color: #a2a3bb;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
   }
   
   h3 {
-    color: 55a896;
+    color: #b3b7ee;
     font-family: "Times New Roman", Times, serif;
     font-size: 20px;
     text-align: center;
   }
   
 p {
-  color: #565656;
+  color: #19355a;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
@@ -46,13 +46,13 @@ p {
 }
 
 .dark-background {
-  background-color: #750f11;
-  color: #e3d2a3;
+  background-color: #9395d3;
+  color: #19355a;
 }
 
 .light-background {
-  background-color: #e6e6e6;
-  color: #333333;
+  background-color: #b3b7ee;
+  color: #19355a;
 }
 
 .wrapper {
