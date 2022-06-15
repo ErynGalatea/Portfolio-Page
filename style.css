@@ -49,6 +49,5 @@ p {
 .wrapper {
   height: 75px;
   width: auto;
-  margin: auto;
-padding: 25px 15px 25px 15px;
+  padding: 25px 15px 25px 15px;
 }
