@@ -7,11 +7,13 @@ img {
 }
 
 h1 {
-  color: #242424;
+  color: #4be4c3;
   font-family: "Times New Roman", Times, serif;
 }
-
+h2 {
+  color: #2c9982;
+    font-family: "Times New Roman", Times, serif;
 p {
-  color: #757575;
+  color: #242424;
   font-family: Arial, Helvetica, sans-serif;
 }
