@@ -17,3 +17,22 @@ p {
   color: #242424;
   font-family: Arial, Helvetica, sans-serif;
 }
+  
+.text-centered {
+  text-align: center;
+}
+
+.dark-background {
+  background-color: #565656;
+  color: #e6e6e6;
+}
+
+.light-background {
+  background-color: #e6e6e6;
+  color: #333333;
+}
+
+.wrapper {
+  width: auto;
+  margin: auto;
+}
