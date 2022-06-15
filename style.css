@@ -1,9 +1,8 @@
 header {
-  margin: 0px;
+  margin: -20px;
   padding: 0px;
   height: 100px;
   background-color: #b3b7ee;
-  overflow: auto;
 }
 
 body {
