@@ -7,29 +7,35 @@ img {
 }
 
 .image-circle {
-    border-radius: 37%; 
+    border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
   color: #4be4c3;
   font-family: "Times New Roman", Times, serif;
-  font-size: 26px;
+  font-size: 45px;
+  text-align: center;
 }
   
 h2 {
   color: #2c9982;
-    font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
   }
   
   h3 {
     color: 55a896;
     font-family: "Times New Roman", Times, serif;
-    font-size: 13px;
+    font-size: 20px;
+    text-align: center;
   }
   
 p {
   color: #565656;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
   
 .text-centered {
@@ -48,6 +54,6 @@ p {
 
 .wrapper {
   height: 51px;
-  width: device-width;
+  width: 100%;
   padding: 25px 15px 25px 15px;
 }
