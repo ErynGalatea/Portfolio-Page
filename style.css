@@ -1,3 +1,11 @@
+header {
+  margin: 0px;
+  padding: 0px;
+  height: 100px;
+  background-color: #b3b7ee;
+  overflow: auto;
+}
+
 body {
   background-color: #a0ecd0;
   margin: 5px 10px 5px 10px;
