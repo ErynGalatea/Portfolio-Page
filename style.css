@@ -22,10 +22,6 @@ body {
   padding: 0px;
 }
 
-.margins {
-  margin: 35px;
-}
-
 img {
   width: 500px;
   padding: 15px;
@@ -72,6 +68,7 @@ p {
 .text-centered {
   list-style-position: inside;
   text-align: center;
+  margin: 25px;
 }
 
 .dark-background {
