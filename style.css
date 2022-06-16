@@ -1,3 +1,6 @@
+nav {
+  font-size: 45px;
+}
 header {
   margin: 0px;
   padding: 0px;
@@ -13,6 +16,7 @@ body {
     
 img {
   width: 500px;
+  padding: 15px;
 }
 
 .image-circle {
