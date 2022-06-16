@@ -1,17 +1,19 @@
+/* makes my nav bar text bigger */
 nav {
   font-size: 35px;
 }
+/* stylizes my header*/
 header {
   margin: 0px;
   padding: 15px;
   height: 200px;
   background-color: #b3b7ee;
 }
-
+/* makes my list font bigger */
 ul {
   font-size: 25px;
 }
-
+/* makes my list font bigger */
 ol {
   font-size: 25px;
 }
