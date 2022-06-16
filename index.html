@@ -4,35 +4,43 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width"> 
+<!-- ---- this makes the page display width the same as your device ---- -->
 	<title>Erin Tsai Portfolio Page</title>
+	<!-- this gives the page a title for search engines to pick up -->
 	<link href="style.css" rel="stylesheet" type="text/css" />
-    
+	<!-- this tells the page where to pull the css from for styling it --> 
 </head>
 
 <body>
 	
 <header class="light-background">
   <div class="wrapper">
+	  <!-- these tell the header what css it should apply -->
     <h1>Erin Tsai</h1>
     <h3>Software Engineer</h3>
+	  <!-- these are the headings on the top of the page -->
   </div>
 </header>
 
 <main>  
-	
+	<!-- this is where the MAIN bulk of the page goes-->
   <article>
 	  <div class="text-centered">
+		  <!-- centers text in this div-->
 		<img src="https://github.com/ErynGalatea/Portfolio-Page/blob/main/20220614_204526.jpg?raw=true" width="500" class="image-circle">
 		</div>
+	  <!-- tells page to display this photo-->
 		<div>
 		<nav class="text-centered">
       <a href="#Intro">Intro  |</a>
       <a href="#About Me">About Me  |</a>
       <a href="#Contact Me">Contact Me</a>
+			<!-- these are the link references for the nav bar, which when activated by clicking on the nav bar will link to a later section with the same id-->
     </nav>
 		</div>
   <section id="Intro">
+	  <!-- this is one of the section ids used by the nav bar to send a user to the corresponding sections of the page-->
 			<h2>Hi there! I'm Erin Tsai!</h2>
 			<p>I'm a student software engineer taking part in the Thinkful course. I live in Gainesville, FL with my fiancee of two years.</p>
       <p>Growing up with videogames, I've become interested in:</p>
@@ -41,11 +49,13 @@
 		  <li>How to continue in my quest to create games.</li>
 		  <li>Just how things work behind the screens.</li>
 		  <li>How to create webpages dedicated to the things I enjoy.</li>
+		  <!-- this sets a bulleted list into the body -->
 	  </ul>
 	  </div>
       </section>
 	  
 	  <hr>
+	  <!-- this places a line across the width of the page that helps visually seperate sections in the content-->
 	  
 	  <section id="About Me">
 	  <h2>About Me!</h2>
@@ -60,9 +70,11 @@
 		  <p>I'd love to hear from you! For any questions, you can contact me via:</p>
 		  <div class="text-centered">
 		  <ol>
+			  <!-- this puts the information below into a numbered list format -->
 			  <li><a href="https://www.linkedin.com/in/erin-tsai-80b325242/" target="_blank">LinkedIn</a></li>
 			  <li><a href="mailTo:erintsai0421@gmail.com">erintsai0421@gmail.com</li>
 			  <li><a href="https://github.com/ErynGalatea" target="_blank">GitHub</a></li>
+			  <!-- these set links to various designated webpages and open them in a new tab when clicked -->
 		  </ol>
 		  </div>
 	  </section>
@@ -76,6 +88,7 @@
 </footer>
 
 	<script src="script.js">
+		<!-- though this wasn't used, if javascript code was needed, this would tell the page where to pull it from.-->
 
 	</script>
 </body>
