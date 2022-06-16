@@ -28,7 +28,7 @@ img {
 h1 {
   color: #9395d3;
   font-family: "Times New Roman", Times, serif;
-  font-size: 65px;
+  font-size: 80px;
   text-align: center;
   margin: 0px;
   padding: 0px;
@@ -53,6 +53,7 @@ h2 {
 p {
   color: #19355a;
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
   text-align: center;
   margin: 5px, 65px, 5px, 65px;
 }
